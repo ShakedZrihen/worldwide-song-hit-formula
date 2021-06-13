@@ -1,0 +1,540 @@
+,Unnamed: 0,Unnamed: 0.1,country,artist type,gender,disambiguation,genre,Artist
+0,0,0,Germany,Group,,"""Masters of Rap"", German rap group","['israeli mediterranean', 'israeli pop']",Mor
+1,1,1,Israel,Person,male,,['israeli singer-songwriter'],Roy Kafri
+2,2,2,"Korea, Republic of",Group,,,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",BTS
+3,3,3,United States,Person,male,"Atlanta rapper, member of Migos",['australian hip hop'],Offset
+4,4,4,Denmark,Group,,,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']",Sergio
+5,5,5,Israel,Person,female,Netta Barzilai,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",Netta
+6,6,6,,Person,male,Brazilan MC,"['british invasion', 'classic rock', 'rock']",MC Fioti
+7,7,7,United States,Person,male,US rapper,"['melodic rap', 'rap', 'trap']",Wiz Khalifa
+8,8,8,Israel,Person,female,,"['israeli hip hop', 'israeli pop']",Roni Dalumi
+9,9,9,Spain,Character,male,Character from Spanish tv-series La Casa de Papel,"['atl hip hop', 'rap', 'trap']",El Profesor
+10,10,10,,Person,male,,['israeli mediterranean'],Banx & Ranx
+11,11,11,United States,Person,male,,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'urban contemporary']",Post Malone
+12,12,12,United States,Person,male,,"['dance pop', 'dutch house', 'edm', 'electro house', 'pop', 'pop dance', 'progressive electro house', 'slap house', 'tropical house']",Kid Cudi
+13,13,13,United Kingdom,Character,male,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Big Shaq
+14,14,14,,,,,"['israeli pop', 'israeli singer-songwriter']",Buttering
+15,15,15,United States,Person,male,singer Andrew Bazzi,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",Bazzi
+16,16,16,United Kingdom,Group,,1991-2009 Britpop,"['israeli mediterranean', 'mizrahi']",Oasis
+17,17,17,United States,Person,male,,"['detroit hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Lil Tjay
+18,18,18,Denmark,Group,,,['israeli rock'],Anna Zak
+19,19,19,United States,Person,male,,"['australian dance', 'australian pop', 'pop']",John Legend
+20,20,20,Australia,Person,male,performance name of James Cayzer,['latin pop'],Jimbo J
+21,21,21,United Kingdom,Person,female,UK soul/jazz singer,"['eurovision', 'greek pop', 'laiko']",Adele
+22,22,22,,Person,male,,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'post-teen pop', 'tropical house', 'uk dance']",Tay G
+23,23,23,New Zealand,Person,female,NZ artist,"['british soul', 'pop', 'pop soul', 'uk pop']",BENEE
+24,24,24,Russian Federation,Person,male,,"['dance pop', 'pop', 'post-teen pop']",Idan Rafael Haviv
+25,25,25,,Group,,,['israeli mediterranean'],Måneskin
+26,26,26,Denmark,Group,,,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Years & Years
+27,27,27,,Person,male,French rapper from Chevilly-Larue (94550),[],Chily
+28,28,28,,Group,,Progressive-rock-band from Netherlands,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",Timelock
+29,29,29,United Kingdom,Group,,UK pop / dance act,"['classic israeli pop', 'israeli rock']",Rudimental
+30,30,30,Israel,Person,male,,"['israeli hip hop', 'israeli pop']",Yishay Swissa
+31,31,31,Australia,Person,female,Australian singer/songwriter and actress,"['dutch house', 'dutch pop']",Kate Miller-Heidke
+32,32,32,Israel,Person,male,,"['pop rap', 'rap', 'trap']",Dudu Faruk
+33,33,33,Canada,Group,,,"['eurovision', 'israeli pop']",Loud Luxury
+34,34,34,Australia,Person,male,"Singer, Songwriter",['israeli rock'],Dean Lewis
+35,35,35,United States,Person,female,,"['classic israeli pop', 'israeli pop', 'israeli rock']",Kehlani
+36,36,36,Japan,Group,,THE IDOLM@STER SideM,[],Beit Habubot
+37,37,37,Israel,Group,,,['pop rap'],Hadag Nahash
+38,38,38,,Group,,Banda de México,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Leonora
+39,39,39,,Person,male,R&B singer,['chicago rap'],NAV
+40,40,40,Australia,Person,male,rapper/singer,"['british indie rock', 'modern rock', 'pop', 'rock']",The Kid LAROI
+41,41,41,United States,Group,,US country rock band,"['contemporary country', 'country', 'pop']",Eagles
+42,42,42,,Group,,Swedish DJ/music producing house music duo,['israeli pop'],Vigiland
+43,43,43,United Kingdom,Group,female,girl group,['israeli pop'],Little Mix
+44,44,44,United States,Person,female,,"['israeli hip hop', 'israeli trap']",Saweetie
+45,45,45,Canada,Person,male,,"['hip hop', 'pittsburgh rap', 'rap']",JP Saxe
+46,46,46,United States,Person,male,,"['alt z', 'dance pop', 'edm', 'electro house', 'electropop', 'pop', 'pop dance', 'pop edm', 'post-teen pop', 'tropical house']",Trevor Daniel
+47,47,47,United States,Person,male,,"['art pop', 'norwegian pop']",Ant Saunders
+48,48,48,United States,Person,male,,"['dance pop', 'girl group', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",French Montana
+49,49,49,United Kingdom,Person,female,UK singer,"['bmore', 'dance pop', 'edm', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Anne-Marie
+50,50,50,Israel,Person,female,,"['permanent wave', 'pop']",Miri Mesika
+51,51,51,United States,Group,,US pop rock band,"['dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']",Train
+52,52,52,Denmark,Group,,,['israeli pop'],יוצרות את הבום
+53,53,53,Australia,Person,male,Australian singer-songwriter,"['latin', 'latin pop', 'puerto rican pop']",Vance Joy
+54,54,54,Italy,Person,male,italian singer,['israeli pop'],Mahmood
+55,55,55,United States,Person,male,,"['pop', 'post-teen pop']",DaBaby
+56,56,56,United Kingdom,Person,male,,[],Harry Styles
+57,57,57,Denmark,Group,,,"['alt z', 'dance pop', 'electropop', 'indie cafe pop', 'indie poptimism', 'pop', 'post-teen pop', 'social media pop']",Emanuele Vernarelli
+58,58,58,Israel,Person,male,,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",Ran Danker
+59,59,59,United States,Group,,American rock band,"['edm', 'pop dance', 'tropical house']",Journey
+60,60,60,Russian Federation,Person,male,"russian singer, dancer and actor",['maltese pop'],Sergey Lazarev
+61,61,61,United States,Person,male,,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Roddy Ricch
+62,62,62,Israel,Person,male,,['israeli pop'],Peled
+63,63,63,,Person,male,,"['neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']",Cesar Sampson
+64,64,64,Colombia,Person,male,Juan Luis Londoño Arias,['dutch pop'],Maluma
+65,65,65,Austria,Person,male,Electronic artist Bernhard Gál,"['israeli hip hop', 'israeli trap']",Gal Adam
+66,66,66,,,,,"['emo rap', 'miami hip hop', 'rap', 'trap']",שילה בן סעדון
+67,67,67,Puerto Rico,Person,male,,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Anuel AA
+68,68,68,United States,Person,male,,['australian hip hop'],Giveon
+69,69,69,Denmark,Group,,,"['classic israeli pop', 'israeli rock', 'israeli singer-songwriter']",Future
+70,70,70,Denmark,Group,,,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",FLETCHER
+71,71,71,United States,Person,male,,['israeli mediterranean'],Chance the Rapper
+72,72,72,United Kingdom,Person,male,British winner of X Factor,"['dance pop', 'pop', 'post-teen pop', 'r&b']",James Arthur
+73,73,73,United Kingdom,Group,,,"['modern rock', 'pop', 'rock']",Arctic Monkeys
+74,74,74,Puerto Rico,Person,male,,"['dance pop', 'edm', 'house', 'pop dance', 'tropical house']",Pedro Capó
+75,75,75,Italy,Group,,Italian production trio,"['rap', 'trap']",MEDUZA
+76,76,76,United States,Person,male,,"['lgbtq+ hip hop', 'pop rap']",Gucci Mane
+77,77,77,Israel,Person,male,,"['chicago drill', 'chicago rap', 'drill', 'rap', 'southern hip hop', 'trap']",Nathan Goshen
+78,78,78,,Person,male,ראפר וזמר ישראלי,"['pop', 'r&b']",Ravid Plotnik
+79,79,79,,Person,male,,"['canadian pop', 'pop', 'post-teen pop']",Tion Wayne
+80,80,80,United States,Person,male,US rapper,"['dance pop', 'pop', 'post-teen pop']",6ix9ine
+81,81,81,Netherlands,Group,,,['israeli pop'],Kris Kross Amsterdam
+82,82,82,United States,Person,female,,"['boy band', 'dance pop', 'electropop', 'pop', 'post-teen pop']",Hailee Steinfeld
+83,83,83,United States,Person,male,US R&B/pop singer and dancer,"['dance pop', 'pop', 'post-teen pop']",Chris Brown
+84,84,84,United States,Group,,US rock group,"['k-pop', 'k-pop boy group']",TOTO
+85,85,85,Denmark,Group,,,['israeli pop'],Mergui
+86,86,86,,Person,male,dance music,['basshall'],Pako Ramirez
+87,87,87,"Korea, Republic of",Group,,,"['classic rock', 'glam rock', 'rock']",BLACKPINK
+88,88,88,United Kingdom,Group,,∆,"['downtempo', 'pop', 'post-teen pop', 'shiver pop']",alt-J
+89,89,89,United States,Group,,,[],Jonas Brothers
+90,90,90,Ireland,Person,male,,"['dance pop', 'pop', 'pop rap']",Hozier
+91,91,91,United States,Person,male,,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Felix Snow
+92,92,92,,,,Psy/Goa,"['conscious hip hop', 'north carolina hip hop', 'rap']",Shaylee Atary
+93,93,93,Canada,Person,male,,"['classic israeli pop', 'israeli pop', 'israeli rock', 'israeli singer-songwriter']",Justin Bieber
+94,94,94,,,,,[],Bar Tzabary
+95,95,95,United States,Person,male,US rapper,"['latin', 'reggaeton', 'reggaeton colombiano']",Jay Rock
+96,96,96,United States,Group,,,"['dance pop', 'edm', 'electro house', 'electropop', 'pop', 'pop dance', 'pop edm', 'post-teen pop', 'tropical house']",Creedence Clearwater Revival
+97,97,97,Canada,Person,female,,"['funk carioca', 'funk ostentacao', 'funk pop']",Avril Lavigne
+98,98,98,Sweden,Person,male,,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Alesso
+99,99,99,United States,Person,male,,"['classic israeli pop', 'israeli indie', 'israeli pop']",Pop Smoke
+100,100,100,United Kingdom,Person,male,UK pop & hip hop producer,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Mark Ronson
+101,101,101,United States,Person,male,dance/electronic producer Dan Griffith,[],Gryffin
+102,102,102,United Kingdom,Group,,,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Glass Animals
+103,103,103,United States,Person,male,,"['latin', 'reggaeton', 'trap latino']",Lil Dicky
+104,104,104,Australia,Group,,,['israeli mediterranean'],Tame Impala
+105,105,105,United States,Person,male,Seattle rapper,"['australian rock', 'hard rock', 'rock']",Lil Mosey
+106,106,106,,,,,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",Katrix and Doron Beaton
+107,107,107,Australia,Person,female,,"['australian psych', 'neo-psychedelic']",Tones And I
+108,108,108,Sweden,Person,male,swedish singer,['israeli pop'],John Lundvik
+109,109,109,United States,Person,male,US rapper,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",Lil Peep
+110,110,110,United States,Person,male,,"['electro house', 'pop dance']",Pharrell Williams
+111,111,111,United States,Group,,,"['classic israeli pop', 'israeli mediterranean', 'mizrahi']",Yam Refaeli
+112,112,112,United States,Group,,,"['modern rock', 'rock']",Gnarls Barkley
+113,113,113,Israel,Group,,Psytrance duo from Israel (X-Noize),['sad rap'],Major7
+114,114,114,United Kingdom,Group,,UK rock group,"['atl hip hop', 'neo soul']",Queen
+115,115,115,Sweden,Person,female,,"['alt z', 'electropop', 'indie pop', 'pop', 'post-teen pop']",Zara Larsson
+116,116,116,United Kingdom,Person,male,,['israeli pop'],Stormzy
+117,117,117,United Kingdom,Person,male,,"['colombian pop', 'pop']",ZAYN
+118,118,118,Netherlands,Person,male,,"['australian pop', 'dance pop', 'edm', 'electropop', 'pop', 'pop rap', 'post-teen pop', 'tropical house', 'uk pop']",Armin van Buuren
+119,119,119,Canada,Person,male,Canadian actor/rapper,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'teen pop']",Drake
+120,120,120,United States,Person,male,,"['detroit hip hop', 'hip hop', 'rap']",Polo G
+121,121,121,United Kingdom,Group,,English rock band,"['alternative country', 'deep new americana', 'folk', 'new americana', 'roots rock', 'stomp and holler']",Francis Duran
+122,122,122,Netherlands,Person,male,Dutch Tech-House/Minimal DJ & producer Fadil El Ghoul,"['israeli hip hop', 'israeli trap']",R3HAB
+123,123,123,Israel,Person,female,Israeli singer,"['israeli mediterranean', 'israeli pop', 'mizrahi']",Eden Alene
+124,124,124,United Kingdom,Group,,Diplo and Mark Ronson,"['festigal', 'israeli pop']",Silk City
+125,125,125,United Kingdom,Person,male,,"['alt z', 'nz pop', 'pop']",Jax Jones
+126,126,126,Spain,Person,male,Spanish pop singer,['israeli pop'],Enrique Iglesias
+127,127,127,United States,Person,male,,['israeli pop'],Asaf Goren
+128,128,128,,Person,,,"['israeli hip hop', 'israeli pop']",Chen Aharoni
+129,129,129,Puerto Rico,Person,male,,"['melodic rap', 'trap']",Nio Garcia
+130,130,130,United States,Person,male,"rapper from Portland, OR","['dance pop', 'pop', 'urban contemporary']",Aminé
+131,131,131,United States,Person,male,US rapper,['london on indie'],Machine Gun Kelly
+132,132,132,United States,Person,male,US Rapper,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Blueface
+133,133,133,Denmark,Group,,,"['british folk', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",CJ
+134,134,134,Denmark,Group,,,['israeli mediterranean'],Gjon's Tears
+135,135,135,New Zealand,Person,male,New Zealand beatmaker,"['dance pop', 'pop']",Jawsh 685
+136,136,136,,Person,female,,"['israeli hip hop', 'jewish hip hop']",Eden Ben Zaken
+137,137,137,Israel,Group,,An acoustic folk country trio from Israel,['israeli rock'],Jane Bordeaux
+138,138,138,,Person,,,"['grime', 'uk hip hop']",Tamuz
+139,139,139,Denmark,Group,,,"['rap', 'slap house']",Glen Dean
+140,140,140,United Kingdom,Person,female,,['pop'],Dua Lipa
+141,141,141,Denmark,Group,,,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show', 'uk pop']",KYLE
+142,142,142,Sweden,Group,,Swedish dansband,"['brooklyn drill', 'nyc rap']",THE SCOTTS
+143,143,143,United States,Person,female,American actress,['israeli mediterranean'],Olivia Rodrigo
+144,144,144,,,,Beatport artist,"['eurovision', 'latin talent show', 'latin viral pop', 'musica catalana', 'reggae catala', 'spanish pop']",Ido Shoam
+145,145,145,United States,Group,,,"['classic israeli pop', 'israeli hip hop']",Louis The Child
+146,146,146,United States,Person,male,,['israeli mediterranean'],"Tyler, The Creator"
+147,147,147,United States,Person,other,,[],Miley Cyrus
+148,148,148,United States,Group,,US pop/hip-hop group,['israeli pop'],Black Eyed Peas
+149,149,149,United States,Person,male,,"['hip hop', 'pop rap', 'rap']",Jack Harlow
+150,150,150,Denmark,Group,,,"['progressive psytrance', 'psychedelic trance']",Arutz Hakibud
+151,151,151,United States,Person,female,,"['latin', 'latin arena pop', 'latin pop', 'mexican pop']",Bebe Rexha
+152,152,152,Israel,Person,male,,"['emo rap', 'miami hip hop']",Geva Alon
+153,153,153,United States,Group,,,"['electropop', 'pop']",The White Stripes
+154,154,154,United States,Person,male,,['israeli pop'],Jason Mraz
+155,155,155,Israel,Person,male,,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Kobi Peretz
+156,156,156,,,,,"['contemporary country', 'country road']",Yossi Shitrit
+157,157,157,United States,Person,female,operatic soprano,['contemporary country'],Ella Lee
+158,158,158,United States,Person,female,"Normani Kordei Hamilton, of Fifth Harmony",['pop rap'],Normani
+159,159,159,Israel,Person,male,,[],Idan Amedi
+160,160,160,United Kingdom,Group,,,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",The Beatles
+161,161,161,United Kingdom,Person,female,Mabel McVey,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'progressive electro house', 'tropical house']",Mabel
+162,162,162,,Person,male,,['israeli rock'],Omri 69 Segal
+163,163,163,United States,Person,male,,"['emo rap', 'rap']",Steve Aoki
+164,164,164,United States,Person,female,US singer/songwriter Ashley Frangipane,[],Halsey
+165,165,165,United Kingdom,Person,male,"dance DJ, producer, songwriter from Scotland",[],Calvin Harris
+166,166,166,Mexico,Group,,Mexican pop rock band,['israeli pop'],Reik
+167,167,167,,Person,male,Psytrance project from Israel [Jenia Akerman],"['eurovision', 'russian dance pop', 'russian pop']",One Function
+168,168,168,United States,Person,male,,"['folk-pop', 'modern rock', 'neo-singer-songwriter', 'pop', 'pop rock']",Jason Derulo
+169,169,169,Israel,Person,female,,"['hip hop', 'rap', 'underground hip hop']",Adi Ulmansky
+170,170,170,United States,Group,,US band,[],Moon Taxi
+171,171,171,Israel,Person,female,,[],Yuval Dayan
+172,172,172,United States,Person,male,US rapper,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock', 'stomp and holler']",Rich The Kid
+173,173,173,,Person,male,"Berlin-based Icelandic electronic music producer, previously known as Mixophrygian","['emo rap', 'lgbtq+ hip hop']",Daði Freyr
+174,174,174,Israel,Person,male,,"['atl hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",David Broza
+175,175,175,United States,Person,male,,['post-punk mexicano'],Lil Tecca
+176,176,176,Mexico,Person,female,,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Sofía Reyes
+177,177,177,United States,Person,male,US rapper,"['dance pop', 'dancehall', 'pop', 'pop rap']",Quavo
+178,178,178,Denmark,Group,,Danish pop band,"['pop', 'pop rap', 'rap', 'social media pop']",Lukas Graham
+179,179,179,Bangladesh,Person,female,,"['boy band', 'dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop rap', 'quiet storm', 'r&b', 'urban contemporary']",Doli & Penn
+180,180,180,,,,Trance,"['modern rock', 'pop rap']",Orr Amrami Brockman
+181,181,181,United Kingdom,Person,male,"British singer-songwriter Mike Rosenberg, formerly of the band /Passenger.","['israeli mediterranean', 'mizrahi']",Passenger
+182,182,182,United States,Group,,"indie rock, avant-garde, and alternative hip hop band","['rap', 'trap', 'underground hip hop', 'vapor trap']",The Neighbourhood
+183,183,183,United Kingdom,Person,male,UK singer-songwriter,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",Ed Sheeran
+184,184,184,United States,Person,male,US rapper,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",21 Savage
+185,185,185,,Person,,,['israeli mediterranean'],Dikla
+186,186,186,Sweden,Group,,,"['israeli hip hop', 'israeli trap']",NOTD
+187,187,187,Israel,Person,male,,['canadian electropop'],Dudu Aharon
+188,188,188,Israel,Person,male,,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk dance']",Eyal Golan
+189,189,189,Spain,Person,male,,['israeli mediterranean'],Avior Malasa
+190,190,190,Albania,Person,female,Albanian singer Altuna Sejdiu,"['alternative rock', 'blues rock', 'detroit rock', 'garage rock', 'modern blues rock', 'modern rock', 'permanent wave', 'punk blues', 'rock']",Tuna
+191,191,191,United States,Person,male,,"['german dance', 'german techno', 'german trance', 'trance']",Childish Gambino
+192,192,192,Finland,Group,,Finnish punk band,['german pop'],Lama Lo
+193,193,193,United States,Group,,,['israeli pop'],Panic! At The Disco
+194,194,194,United States,Person,female,,"['canadian contemporary r&b', 'canadian pop', 'pop']",Melanie Martinez
+195,195,195,Netherlands,Person,male,Dutch DJ and producer,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap', 'vapor trap']",Sam Feldt
+196,196,196,United States,Person,male,,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",24kGoldn
+197,197,197,United States,Person,male,US rapper,"['dance pop', 'pop', 'uk pop']",Lil Yachty
+198,198,198,Israel,Person,male,,"['atl hip hop', 'plugg', 'rap', 'trap']",Atar Mayner
+199,199,199,Norway,Person,female,Norwegian singer Sigrid Raabe,"['classic israeli pop', 'israeli rock']",Sigrid
+200,200,200,United Kingdom,Person,male,,"['rap', 'trap']",Tom Odell
+201,201,201,Denmark,Group,,,"['modern alternative rock', 'modern rock', 'pop']",קייט ואור
+202,202,202,United States,Group,,,"['houston rap', 'pop', 'pop rap', 'trap queen']",Why Don't We
+203,203,203,United States,Group,,American hard rock band from Los Angeles,"['brooklyn drill', 'melodic rap', 'nyc rap']",Guns N' Roses
+204,204,204,Puerto Rico,Person,male,,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",Ozuna
+205,205,205,United States,Group,,,['brooklyn drill'],SHAED
+206,206,206,United States,Group,,,"['israeli mediterranean', 'israeli pop', 'mizrahi']",Maroon 5
+207,207,207,United States,Group,,,"['latin', 'reggaeton', 'trap latino']","Earth, Wind & Fire"
+208,208,208,United States,Person,female,,['israeli pop'],SZA
+209,209,209,,Group,,"trance duo Stuart Crichton & Colin Tevendale ""Al Paradis""",[],Gigolo
+210,210,210,United States,Person,male,American R&B singer-songwriter,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",Khalid
+211,211,211,France,Person,male,French EDM/Trap producer William Grigahcine,"['atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",DJ Snake
+212,212,212,Netherlands,Person,male,dutch singer/songwriter,['viral rap'],Duncan Laurence
+213,213,213,Sweden,Person,female,,['israeli mediterranean'],Tove Styrke
+214,214,214,Norway,Person,male,Norwegian DJ & producer Kyrre Gørvell-Dahll a.k.a. ※,"['dance pop', 'pop', 'pop r&b', 'pop rap', 'post-teen pop', 'r&b', 'uk contemporary r&b', 'urban contemporary']",Kygo
+215,215,215,United States,Person,female,,['escape room'],Madison Beer
+216,216,216,United States,Group,,,['israeli pop'],Migos
+217,217,217,,Group,,"Black / Death Metal from San Antonio, TX","['folk-pop', 'modern rock', 'pop', 'pop rock']",Regev Hod
+218,218,218,United States,Person,female,,"['hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",Doja Cat
+219,219,219,Israel,Person,male,,"['classic israeli pop', 'israeli rock', 'israeli singer-songwriter']",Assaf Amdursky
+220,220,220,Israel,Person,female,,"['danish pop', 'pop', 'scandipop']",דקל וקנין
+221,221,221,United Kingdom,Group,,,['israeli pop'],Dire Straits
+222,222,222,Israel,Person,male,,"['eurovision', 'norwegian pop']",Shlomo Artzi
+223,223,223,United States,Person,male,"American music manager, Founder of Goliath Artists and co-founder of Shady Records",['psychedelic trance'],Paul Rosenberg
+224,224,224,United States,Person,male,,[],G-Eazy
+225,225,225,,Person,female,,[],salem ilese
+226,226,226,United States,Person,female,,"['czech pop', 'eurovision']",Camila Cabello
+227,227,227,Denmark,Group,,,['israeli trap'],רועי סנדלר
+228,228,228,United Kingdom,Person,male,now known as Yusuf Islam,"['cali rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Yusuf / Cat Stevens
+229,229,229,Sweden,Person,male,,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Avicii
+230,230,230,Colombia,Person,female,Colombian pop vocalist,"['dance pop', 'pop', 'post-teen pop']",Shakira
+231,231,231,,,,,['slap house'],Paulius Jurgaitis
+232,232,232,United States,Person,male,US rapper,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",2 Chainz
+233,233,233,United States,Group,,,"['israeli mediterranean', 'mizrahi']",Blackstreet
+234,234,234,United States,Group,,,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'soft rock', 'synthpop']",DNCE
+235,235,235,Israel,Person,male,,"['eurovision', 'nouvelle chanson francaise']",Ishay Ribo
+236,236,236,United States,Person,other,,['pop rap'],Demi Lovato
+237,237,237,,Group,,,"['indie rock', 'modern alternative rock', 'modern rock', 'rock']",Ritt Momney
+238,238,238,Denmark,Group,,,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",Benaia Barabi
+239,239,239,,Person,male,,"['chicago rap', 'melodic rap']",Elai Botner
+240,240,240,Spain,Person,male,Spanish singer,"['eurovision', 'francoton', 'variete francaise']",Miki Núñez
+241,241,241,,Group,,,[],Young Stoner Life
+242,242,242,United States,Person,female,San Diego based chanteuse,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",Ashe
+243,243,243,United States,Person,male,,['pop'],Playboi Carti
+244,244,244,United States,Person,male,,['israeli pop'],Adir Getz
+245,245,245,,Person,male,,"['disco', 'funk', 'jazz funk', 'motown', 'quiet storm', 'soul']",YUNGBLUD
+246,246,246,United Kingdom,Person,female,,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",Ellie Goulding
+247,247,247,United States,Person,female,American singer/songwriter,"['israeli mediterranean', 'israeli pop', 'mizrahi', 'persian pop']",P!nk
+248,248,248,United States,Person,male,US rapper,"['czech pop', 'eurovision']",Trippie Redd
+249,249,249,,,,,['eurovision'],Dudi Buzaglo
+250,250,250,Israel,Person,male,Omer Adam,"['greek pop', 'laiko']",Omer Adam
+251,251,251,Israel,Group,,"blues-rock, Israel","['alt z', 'electropop', 'pop']",Full Trunk
+252,252,252,Denmark,Group,,,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Fox Blanco
+253,253,253,Israel,Person,male,,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Ori Ben Ari
+254,254,254,New Zealand,Person,female,New Zealand singer-songwriter,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Lorde
+255,255,255,Sweden,Person,male,swedish singer,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Victor Crone
+256,256,256,Israel,Person,male,,"['canadian contemporary r&b', 'canadian pop', 'dance pop', 'electropop', 'pop', 'post-teen pop']",Eden Meiri
+257,257,257,,Person,,,"['dance pop', 'pop', 'post-teen pop']",Raviv Kaner
+258,258,258,Israel,Character,male,,"['alt z', 'dance pop', 'electropop', 'indie pop', 'indie poptimism', 'nyc pop', 'pop', 'post-teen pop']",שם טוב האבי
+259,259,259,United Kingdom,Person,male,British rapper,"['glam rock', 'mellow gold', 'piano rock', 'soft rock']",Russ Millions
+260,260,260,Canada,Person,male,,"['melodic rap', 'pop rap', 'rap', 'trap', 'vapor trap']",Ali Gatie
+261,261,261,Israel,Person,male,,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",Osher Cohen
+262,262,262,Brazil,Person,female,"Brazilian singer, songwriter, actress, and dancer","['dance pop', 'edm', 'pop dance', 'pop house', 'tropical house']",Anitta
+263,263,263,United Kingdom,Group,,,"['melodic rap', 'rap', 'trap']",Fleetwood Mac
+264,264,264,,Person,female,,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",Sapir Saban
+265,265,265,Israel,Person,female,Israeli singer,"['canadian hip hop', 'pop']",Noa Kirel
+266,266,266,United States,Person,female,US rapper/singer Melissa Viviane Jefferson,"['israeli hip hop', 'israeli pop']",Lizzo
+267,267,267,Denmark,Group,,,"['cali rap', 'trap']",Efendi
+268,268,268,France,Person,female,,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop']",Eve And Lear
+269,269,269,United States,Person,male,US rapper,['pop'],Kendrick Lamar
+270,270,270,,Person,,,['israeli mediterranean'],Avraham Tal
+271,271,271,United States,Group,,,[],Smash Mouth
+272,272,272,United States,Person,other,singer,['israeli hip hop'],King Princess
+273,273,273,United States,Person,male,"Andre Young, rap producer","['chill r&b', 'pop']",Dr. Dre
+274,274,274,United States,Group,,,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Red Hot Chili Peppers
+275,275,275,United States,Person,female,"American singer and actress, aka J. Lo","['israeli hip hop', 'israeli trap']",Jennifer Lopez
+276,276,276,,,,,['israeli singer-songwriter'],Nofar Salman
+277,277,277,Sweden,Group,,,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Galantis
+278,278,278,United States,Person,female,,['israeli pop'],Ava Max
+279,279,279,Spain,Person,male,,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",HVME
+280,280,280,Greece,Person,female,,"['folk-pop', 'neo mellow', 'pop', 'pop rock']",Eleni Foureira
+281,281,281,United Kingdom,Group,,British DJ and production duo,['israeli pop'],CamelPhat
+282,282,282,,Group,,,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Kobi Maman
+283,283,283,Azerbaijan,Person,male,,"['melodic rap', 'rap', 'trap']",Chingiz
+284,284,284,Denmark,Group,,,"['pop', 'pop rock']",Carmen
+285,285,285,United States,Person,male,,['bedroom pop'],Conan Gray
+286,286,286,United Kingdom,Person,female,London based R&B Singer,"['afrofuturism', 'alternative r&b', 'atl hip hop', 'dance pop', 'electropop', 'escape room', 'neo soul', 'pop', 'r&b', 'urban contemporary']",Ella Mai
+287,287,287,,Person,,,['israeli hip hop'],Carakukly
+288,288,288,,Person,male,,['israeli pop'],Liran Danino
+289,289,289,,Person,male,,['rain'],Ofek Hamalach
+290,290,290,,Group,,,['israeli rock'],Sofi Tukker
+291,291,291,France,Person,male,,['israeli hip hop'],Gesaffelstein
+292,292,292,United States,Person,male,US rapper,"['dance pop', 'pop']",Lil Pump
+293,293,293,Sweden,Group,,Swedish heavy metal band,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Destiny
+294,294,294,,Person,male,,"['israeli hip hop', 'israeli trap']",Sphera
+295,295,295,United States,Group,,,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'scandipop', 'swedish electropop', 'swedish pop', 'tropical house']",Rae Sremmurd
+296,296,296,Israel,Person,female,,['israeli mediterranean'],Marina Maximilian
+297,297,297,United States,Person,female,,"['bedroom soul', 'pop']",Maggie Lindemann
+298,298,298,United States,Person,male,producer Benjamin Levin,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",benny blanco
+299,299,299,United States,Group,,,[],Portugal. The Man
+300,300,300,United Kingdom,Person,female,,"['florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'southern hip hop', 'trap']",Jess Glynne
+301,301,301,United States,Person,male,US rapper,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",Logic
+302,302,302,Czechia,Group,,czech indie pop band,['israeli mediterranean'],Lake Malawi
+303,303,303,Norway,Group,,,"['classic israeli pop', 'israeli singer-songwriter']",a-ha
+304,304,304,Israel,Person,male,,"['gauze pop', 'indietronica', 'shiver pop']",Rotem Cohen
+305,305,305,Israel,Person,male,,"['dance pop', 'pop', 'pop rock', 'post-teen pop']",Shlomi Shabat
+306,306,306,Canada,Person,female,"singer, songwriter",['melodic rap'],Alice Merton
+307,307,307,Puerto Rico,Person,male,Ramón Luis Ayala Rodríguez,['eurovision'],Daddy Yankee
+308,308,308,United States,Group,male,American boyband,"['australian pop', 'dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",BROCKHAMPTON
+309,309,309,,,,,[],Noy Fadlon
+310,310,310,Denmark,Group,,,"['electropop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",Our Part
+311,311,311,,Group,,"Glasgow-based band, with multi-instrumentalist Gav Prentice","['classic israeli pop', 'israeli rock', 'israeli singer-songwriter']",The Ultras
+312,312,312,Spain,Person,female,Flamenco singer from Barcelona,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",ROSALÍA
+313,313,313,United Kingdom,Group,,,[],Coldplay
+314,314,314,Israel,Person,male,,['nz pop'],Eviatar Banai
+315,315,315,Czechia,Person,male,"Czech singer, songwriter, music producer, music video director and choreographer","['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Mikolas Josef
+316,316,316,,Person,male,,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Moti Taka
+317,317,317,United Kingdom,Person,male,English electronic DJ/musician Henry Smithson,"['edm', 'pop', 'pop dance', 'tropical house']",Riton
+318,318,318,United States,Group,,"Travis Scott, Don Toliver & Sheck Wes","['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",JACKBOYS
+319,319,319,United States,Person,male,,['israeli pop'],YNW Melly
+320,320,320,,Person,,,"['classic israeli pop', 'israeli rock']",Keren Peles
+321,321,321,United States,Person,male,Florida rapper,['israeli pop'],XXXTENTACION
+322,322,322,Israel,Person,male,,['r&b en espanol'],Eden Hason
+323,323,323,United States,Person,female,Zena McNally,"['boy band', 'hip hop', 'rap']",ZENA
+324,324,324,United States,Person,female,,"['dance pop', 'pop', 'pop rap']",Ariana Grande
+325,325,325,Canada,Person,female,,"['dark clubbing', 'destroy techno', 'electro house']",Alessia Cara
+326,326,326,United Kingdom,Group,,,['israeli mediterranean'],Led Zeppelin
+327,327,327,United States,Person,male,,['london rap'],SAINt JHN
+328,328,328,United States,Person,male,,['eurovision'],Marshmello
+329,329,329,Ukraine,Group,,,"['hip hop', 'rap']",Go_A
+330,330,330,United States,Person,male,American rapper,['israeli mediterranean'],Mac Miller
+331,331,331,United States,Person,male,US rapper,"['east coast hip hop', 'hip hop', 'rap', 'trap']",A$AP Ferg
+332,332,332,United States,Person,male,US rapper,"['dance pop', 'electropop', 'pop', 'pop rap', 'post-teen pop']",Young Thug
+333,333,333,Israel,Group,,,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'pop rap', 'post-teen pop', 'trap queen']",Kaveret
+334,334,334,,Person,male,,"['latin', 'latin pop', 'puerto rican pop']",StaySolidRocky
+335,335,335,United States,Person,male,,"['frauenrap', 'german hip hop', 'german pop', 'german viral rap']",Meek Mill
+336,336,336,Canada,Person,male,,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",Tory Lanez
+337,337,337,Israel,Person,male,,"['melodic rap', 'rap', 'rap conscient', 'trap', 'vapor trap']",Maor Cohen
+338,338,338,United Kingdom,Person,male,drum & bass producer Marlon Sterling,['israeli pop'],Equinox
+339,339,339,United States,Person,male,,"['edm', 'electropop', 'indie poptimism', 'pop', 'tropical house']",Don Toliver
+340,340,340,Germany,Person,male,"Russian-German record producer, DJ, multi-instrumentalist and songwriter: Anton Zaslavski","['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Zedd
+341,341,341,United States,Person,female,Rebbeca Marie Gomez,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",Becky G
+342,342,342,,Person,male,,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Kanye West
+343,343,343,United States,Person,male,,"['funk', 'indie r&b', 'motown', 'quiet storm', 'soul']",Arizona Zervas
+344,344,344,United States,Person,male,,"['dance pop', 'edm', 'electronic trap', 'pop dance', 'pop rap', 'tropical house']",Charlie Puth
+345,345,345,United States,Person,male,US rapper & producer,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",J. Cole
+346,346,346,United States,Person,female,,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",Katy Perry
+347,347,347,United States,Group,,,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",N.E.R.D
+348,348,348,Canada,Person,male,,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop', 'post-teen pop']",PARTYNEXTDOOR
+349,349,349,,Character,female,Fictional character/Project of Izabela Mężyńska,[],Karolina
+350,350,350,United States,Group,,,"['classic israeli pop', 'israeli pop', 'israeli rock']",Twenty One Pilots
+351,351,351,United States,Person,male,US rapper,"['alt z', 'bedroom pop', 'electropop', 'indie pop', 'pop', 'post-teen pop']",Juice WRLD
+352,352,352,Netherlands,Person,male,,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Martin Garrix
+353,353,353,United States,Person,female,"TV character played by Miley Cyrus on ""Black Mirror""","['australian pop', 'australian singer-songwriter', 'lilith', 'piano rock']",Ashley O
+354,354,354,Denmark,Person,female,Danish electropop singer/songwriter,['israeli pop'],MØ
+355,355,355,,Person,male,US rapper,"['australian pop', 'dance pop', 'electropop', 'pop', 'post-teen pop', 'viral pop']",Famous Dex
+356,356,356,United Kingdom,Person,male,,"['israeli hip hop', 'israeli pop']",Jonas Blue
+357,357,357,United States,Person,male,,"['dance pop', 'edm', 'house', 'pop', 'pop dance', 'tropical house', 'uk dance']",Eminem
+358,358,358,,Person,female,,[],Liron Amram
+359,359,359,,,,,"['dance pop', 'pop', 'post-teen pop']",Ishay Levi
+360,360,360,France,Person,male,french singer,['israeli mediterranean'],Bilal Hassani
+361,361,361,United States,Person,male,US rapper,"['eurovision', 'israeli pop']",Lil Uzi Vert
+362,362,362,United States,Person,female,Ninet,['israeli rock'],Ninet Tayeb
+363,363,363,Israel,Person,male,,"['album rock', 'classic rock', 'hard rock', 'rock']",Michael Swissa
+364,364,364,United States,Person,female,,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",Carlie Hanson
+365,365,365,United Kingdom,Person,male,,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop']",Liam Payne
+366,366,366,,Person,male,,"['pop', 'pop rap', 'r&b']",Lil Wayne
+367,367,367,United Kingdom,Group,,British trance group,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap', 'underground hip hop']",AURORA
+368,368,368,United States,Person,male,,"['dance pop', 'pop', 'pop rap']",Justin Timberlake
+369,369,369,,Person,male,,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",Hanan Ben Ari
+370,370,370,United Kingdom,Person,male,,"['israeli hip hop', 'israeli trap']",George Ezra
+371,371,371,Israel,Person,male,,['contemporary country'],Aviv Geffen
+372,372,372,Norway,Person,male,,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",Cashmere Cat
+373,373,373,,,,,"['alternative pop rock', 'pop', 'pop rap']",Gil Vain
+374,374,374,Sweden,Group,,2/3 of Swedish House Mafia,"['australian pop', 'pop']",Axwell /\ Ingrosso
+375,375,375,Australia,Group,,,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",5 Seconds of Summer
+376,376,376,Israel,Person,male,,"['dance pop', 'electropop', 'gauze pop', 'pop', 'post-teen pop', 'tropical house']",אייל גולן ומשה פרץ
+377,377,377,Australia,Person,male,,"['alt z', 'modern indie pop', 'social media pop']",Troye Sivan
+378,378,378,United States,Person,male,"Rapper, on Cactus Jack Records and G.O.O.D. Music","['electropop', 'modern rock', 'pop', 'pop rap']",Sheck Wes
+379,379,379,,Person,female,,"['dance pop', 'pop']",Betta Lemme
+380,380,380,Israel,Person,male,,"['irish singer-songwriter', 'modern rock', 'pop']",Idan Yaniv
+381,381,381,United Kingdom,Person,female,,['israeli pop'],Rita Ora
+382,382,382,Israel,Person,male,,"['dance pop', 'pop']",Eliad
+383,383,383,Israel,Person,male,,"['festigal', 'israeli pop']",Arik Einstein
+384,384,384,United States,Person,male,,['israeli pop'],Lauv
+385,385,385,Lithuania,Person,male,"DJ, music producer","['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop']",Dynoro
+386,386,386,Denmark,Group,,,['israeli pop'],Cookie Levanna
+387,387,387,Israel,Person,male,,"['pop', 'pop rap']",Meir Ariel
+388,388,388,Denmark,Group,,,"['pop rap', 'rhode island rap']",שבט אחים ואחיות
+389,389,389,Norway,Group,,norwegian group,"['electropop', 'indie poptimism', 'new french touch', 'tropical house', 'vapor soul']",KEiiNO
+390,390,390,France,Person,male,,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",David Guetta
+391,391,391,,Person,female,,"['alt z', 'indie poptimism', 'pop', 'post-teen pop', 'social media pop']",Fousheé
+392,392,392,France,Person,female,,"['hip hop', 'melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Barbara Pravi
+393,393,393,United States,Person,male,US rapper,"['israeli pop', 'israeli rock', 'israeli singer-songwriter']",Travis Scott
+394,394,394,,Person,male,,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",Joel Corry
+395,395,395,,Group,,,"['k-pop', 'k-pop girl group']",Girafot
+396,396,396,United States,Person,male,,['israeli pop'],Mike Posner
+397,397,397,Denmark,Group,,,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Itay Levi
+398,398,398,United States,Group,,,"['dance pop', 'pop', 'post-teen pop']",KIDS SEE GHOSTS
+399,399,399,,Person,male,,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",ScHoolboy Q
+400,400,400,United Kingdom,Person,male,"English singer, songwriter, pianist, and composer",['israeli pop'],Elton John
+401,401,401,Israel,Person,male,,"['pop', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']",Amir Dadon
+402,402,402,Australia,Group,,Australian hard rock band,['scandipop'],AC/DC
+403,403,403,Israel,Person,male,,"['funk carioca', 'funk pop', 'pagode baiano', 'pop nacional']",Tomer Yosef
+404,404,404,Ireland,Person,male,,[],Niall Horan
+405,405,405,United States,Person,male,US rapper,"['israeli pop', 'jewish pop']",Lil Nas X
+406,406,406,Puerto Rico,Person,male,Nick Rivera Caminero,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Nicky Jam
+407,407,407,Denmark,Group,,,"['alt z', 'canadian contemporary r&b', 'indie cafe pop', 'pop', 'post-teen pop']",Hatikva 6
+408,408,408,Australia,Person,male,,"['dance pop', 'piano rock', 'pop', 'pop rock', 'post-teen pop']",Masked Wolf
+409,409,409,United States,Person,female,,"['francoton', 'french hip hop', 'rap conscient']",Cardi B
+410,410,410,United States,Person,male,Palestinian-American hip hop DJ & producer,"['israeli indie', 'israeli rock']",DJ Khaled
+411,411,411,United States,Person,male,,"['australian pop', 'indie cafe pop', 'pop', 'pop rock', 'post-teen pop']",Tyga
+412,412,412,,Group,,Indie rock band active in early 2010s,"['eurovision', 'oulu metal', 'trancecore']",Red Band
+413,413,413,United States,Person,male,,"['classic israeli pop', 'israeli mediterranean', 'mizrahi']",Kane Brown
+414,414,414,United States,Person,female,,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",Nicki Minaj
+415,415,415,Israel,Person,male,Ethiopian-Israeli rapper,"['alt z', 'dance pop', 'electropop', 'indie cafe pop', 'indie electropop', 'indie poptimism', 'pop', 'post-teen pop', 'social media pop']",Teddy Neguse
+416,416,416,United States,Person,male,,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Surf Mesa
+417,417,417,Canada,Person,male,Canadian R&B singer,"['baroque pop', 'emo', 'modern rock']",The Weeknd
+418,418,418,,Person,male,,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap']",Stephane Legar
+419,419,419,United States,Group,,,"['hip hop', 'virginia hip hop']",OneRepublic
+420,420,420,Israel,Person,male,,"['classic israeli pop', 'israeli rock']",Berry Sakharof
+421,421,421,,Person,male,,"['classic israeli pop', 'israeli mediterranean', 'mizrahi']",Sleepy Hallow
+422,422,422,United States,Group,,Texas pop duo,"['basshall', 'francoton']",Surfaces
+423,423,423,United States,Person,male,rapper,['greek pop'],Joyner Lucas
+424,424,424,Germany,Group,,"""Masters of Rap"", German rap group","['banda', 'corrido', 'nuevo regional mexicano', 'regional mexican']",Moshiko Mor
+425,425,425,Israel,Person,female,,"['israeli hip hop', 'israeli pop']",Zehava Ben
+426,426,426,,Group,,,['israeli hip hop'],Blind Channel
+427,427,427,United States,Person,female,"US singer, songwriter, record producer & actress","['indie jazz', 'israeli indie']",Beyoncé
+428,428,428,United States,Person,male,,['israeli pop'],NLE Choppa
+429,429,429,United States,Person,male,US singer-songwriter,"['israeli mediterranean', 'mizrahi']",John Mayer
+430,430,430,United States,Person,male,,['israeli pop'],Stevie Wonder
+431,431,431,United States,Person,male,,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock', 'southern rock']",Lil Baby
+432,432,432,Israel,Person,male,,['cali rap'],Idan Raichel
+433,433,433,United States,Person,female,,"['dance pop', 'edm', 'house', 'liquid funk', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",Julia Michaels
+434,434,434,,Person,male,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Maor Edri
+435,435,435,United States,Person,male,,[],NF
+436,436,436,United States,Person,female,,"['dance pop', 'edm', 'electro house', 'pop dance', 'pop edm', 'slap house', 'tropical house']",Bella Poarch
+437,437,437,,Group,,,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance', 'tropical house']",Omer Netzer
+438,438,438,Australia,Person,female,Australian singer-songwriter,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk dance', 'uk funky']",Sia
+439,439,439,United States,Person,male,,"['icelandic pop', 'sunnlensk tonlist']",Anderson .Paak
+440,440,440,Denmark,Group,,,"['disney', 'movie tunes']",Guy & Yahel
+441,441,441,Sweden,Group,,Swedish melodic hard-rock,['israeli mediterranean'],Talisman
+442,442,442,Denmark,Group,,,['israeli pop'],Føx & the Hound
+443,443,443,United States,Group,,,['israeli mediterranean'],Jason Isbell and the 400 Unit
+444,444,444,United States,Person,female,US rapper,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",Megan Thee Stallion
+445,445,445,,Group,,,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Amir Ve Ben
+446,446,446,United States,Person,female,,[],Whitney Houston
+447,447,447,United States,Person,male,US rapper,"['comedy rap', 'pop rap', 'rap']",A$AP Rocky
+448,448,448,Puerto Rico,Person,male,,"['atl hip hop', 'hip hop', 'melodic rap', 'plugg', 'pop rap', 'rap', 'southern hip hop', 'trap']",Luis Fonsi
+449,449,449,Georgia,Person,female,greek georgian singer,"['atl hip hop', 'atl trap', 'rap', 'trap']",Tamta
+450,450,450,United States,Person,female,"American singer, songwriter, and actress",['israeli mediterranean'],Lady Gaga
+451,451,451,,Group,,Indian progressive rock band,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",Agam Buhbut
+452,452,452,United States,Person,female,,"['israeli hip hop', 'israeli indie']",Janelle Monáe
+453,453,453,United States,Group,,Beyoncé & JAY-Z,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",The Carters
+454,454,454,Israel,Person,female,,['eurovision'],Sarit Hadad
+455,455,455,,,,,[],Dudi Bar David
+456,456,456,United States,Person,male,George Miller,['israeli mediterranean'],Joji
+457,457,457,"Iran, Islamic Republic of",Person,female,Persian Singer,[],Nasrin Kadri
+458,458,458,United States,Person,male,,['israeli pop'],Flipp Dinero
+459,459,459,,Person,male,,"['dance pop', 'pop', 'post-teen pop']",Peer Tasi
+460,460,460,Denmark,Group,,,"['glam metal', 'hard rock', 'rock']",Berg
+461,461,461,United States,Person,,US singer/songwriter,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Akiva
+462,462,462,France,Person,male,,"['dance pop', 'edm', 'electro house', 'german dance', 'pop', 'pop dance', 'tropical house']",Nadav Guedj
+463,463,463,Jamaica,Person,male,"Sean Paul Ryan Francis Henriques, jamaican reggae/dancehall artist","['dance pop', 'norwegian pop', 'pop']",Sean Paul
+464,464,464,,Person,male,DJ Regard,"['dance pop', 'latin', 'latin pop', 'latin viral pop', 'pop', 'rap latina', 'reggaeton', 'trap latino']",Regard
+465,465,465,Argentina,Person,male,,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",Paulo Londra
+466,466,466,Puerto Rico,Person,male,,"['classic israeli pop', 'israeli mediterranean', 'israeli pop', 'israeli singer-songwriter']",Bad Bunny
+467,467,467,United States,Person,female,,"['dance pop', 'edm', 'pop', 'pop dance']",Kali Uchis
+468,468,468,,Group,,,"['funk carioca', 'funk paulista']",Mercedes Band
+469,469,469,United States,Person,male,,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Ty Dolla $ign
+470,470,470,Israel,Person,female,,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Jasmin Moallem
+471,471,471,,,,,"['latin', 'perreo', 'reggaeton', 'reggaeton flow', 'trap latino']",GIMS
+472,472,472,,Group,,producer collective,"['pop', 'post-teen pop']",Internet Money
+473,473,473,,Person,male,Rapper from London,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Central Cee
+474,474,474,Switzerland,Person,male,swiss singer/songwriter,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Luca Hänni
+475,475,475,Israel,Person,male,israeli singer and actor,"['melodic rap', 'philly rap', 'rap', 'trap']",Kobi Marimi
+476,476,476,,Person,,SPC artist involved in Super Mario World ROMhacking,"['hip hop', 'rap', 'trap']",Young Wavee
+477,477,477,United States,Person,male,US rapper,['memphis hip hop'],Kodak Black
+478,478,478,Germany,Person,male,,"['dfw rap', 'melodic rap', 'rap']",Felix Jaehn
+479,479,479,,Person,male,"German EDM DJ, musician & producer André Tanneberger",[],ATB
+480,480,480,,Person,male,,"['dance pop', 'pop', 'post-teen pop']",Dominic Fike
+481,481,481,United States,Group,,,"['dance pop', 'deep house', 'edm', 'electro house', 'norwegian pop', 'pop', 'pop dance', 'pop edm', 'swedish pop', 'tropical house']",The Chainsmokers
+482,482,482,United States,Person,male,,['horror punk'],Nipsey Hussle
+483,483,483,,,,,"['pop', 'uk pop']",Big Sean
+484,484,484,Canada,Person,male,,"['north carolina hip hop', 'rap']",Shawn Mendes
+485,485,485,United States,Person,male,US Rapper,"['dance pop', 'electropop', 'pop', 'post-teen pop']",YG
+486,486,486,,Person,,,"['chicago rap', 'rap']",Moshe Peretz
+487,487,487,Brazil,Person,male,,"['melodic rap', 'pop rap', 'rap', 'slap house', 'trap']",MC Kevinho
+488,488,488,United States,Person,male,,"['deep tech house', 'edm', 'house', 'pop dance', 'progressive house', 'tropical house']",BlocBoy JB
+489,489,489,United States,Person,male,,"['alt z', 'dance pop', 'electropop', 'modern rock', 'pop']",A Boogie Wit da Hoodie
+490,490,490,Spain,Person,male,,['indie r&b'],Alvaro Soler
+491,491,491,Germany,Person,female,,['israeli mediterranean'],Katja Krasavice
+492,492,492,Jamaica,Group,,,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Major Lazer
+493,493,493,Canada,Person,female,,['pop violin'],Tate McRae
+494,494,494,United States,Person,male,,"['ohio hip hop', 'pop rap']",Metro Boomin
+495,495,495,Israel,Person,male,,"['electropop', 'pop', 'pop dance', 'pop rap']",Dennis Lloyd
+496,496,496,Israel,Person,male,Israeli rock musician,"['alt z', 'electropop', 'indie electropop', 'indie poptimism', 'metropopolis', 'vapor soul']",Dudu Tassa
+497,497,497,United States,Person,female,,"['classic israeli pop', 'israeli indie', 'israeli rock']",Taylor Swift
+498,498,498,Netherlands,Person,male,Dutch DJ and record producer,"['alternative rock', 'pop rock']",Tiësto
+499,499,499,United States,Person,male,,['italian pop'],Diplo
+500,500,500,,Group,,,"['album rock', 'classic rock', 'country rock', 'rock', 'roots rock', 'southern rock', 'swamp rock']",Glades
+501,501,501,United Kingdom,Person,male,,"['electropop', 'pop']",Lewis Capaldi
+502,502,502,Germany,Person,male,"german DJ, producer and musician Tobias Topic",['israeli pop'],Topic
+503,503,503,United Kingdom,Group,,,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Clean Bandit
+504,504,504,United States,Group,,,"['israeli mediterranean', 'israeli pop']",Cheat Codes
+505,505,505,Colombia,Person,male,,['israeli pop'],J Balvin
+506,506,506,United States,Group,,,"['israeli mediterranean', 'mizrahi']",Lynyrd Skynyrd
+507,507,507,United Kingdom,Group,,,"['classic israeli pop', 'israeli rock']",The Rolling Stones
+508,508,508,,,,,"['alternative r&b', 'viral pop']",Avi Panel
+509,509,509,,Person,male,,['nyc rap'],DripReport
+510,510,510,United States,Person,male,"producer, remixer & songwriter",['israeli mediterranean'],Y2K
+511,511,511,Norway,Person,male,Norwegian producer,"['dance pop', 'house', 'pop dance', 'tropical house', 'uk dance']",Alan Walker
+512,512,512,,,,probably uk hiphop,['tropical house'],Michela
+513,513,513,United States,Person,male,hip hop artist,"['alternative r&b', 'melodic rap', 'pop rap']",blackbear
+514,514,514,United States,Person,female,,['israeli pop'],Billie Eilish
+515,515,515,France,Person,female,French R&B singer,"['melodic rap', 'pop rap', 'rap', 'trap']",Aya Nakamura
+516,516,516,,,,,"['london rap', 'uk hip hop']",Gher
+517,517,517,United States,Person,female,,"['dance pop', 'dutch edm', 'edm', 'electro house', 'pop', 'pop dance', 'progressive house', 'tropical house']",Selena Gomez
+518,518,518,,Person,,,"['argentine hip hop', 'trap argentino', 'trap latino']",Dan + Shay
+519,519,519,Canada,Person,male,Rapper,"['melodipop', 'swedish pop']",Powfu
+520,520,520,,Person,male,,"['cali rap', 'dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'trap queen']",Shallou
+521,521,521,Israel,Person,male,,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'toronto rap', 'trap']",Ivri Lider
+522,522,522,Colombia,Person,female,"Carolina Giraldo Navarro, Colombian urban singer","['dance pop', 'pop', 'pop rap', 'rap']",KAROL G
+523,523,523,United Kingdom,Person,other,English singer and songwriter,['house'],Sam Smith
+524,524,524,Greece,Person,female,Έλενα Τσαγκρινού,"['indie rock', 'modern rock']",Elena Tsagrinou
+525,525,525,United States,Person,male,,['israeli mediterranean'],Bryce Vine
+526,526,526,United States,Person,male,,[],Alec Benjamin
+527,527,527,United States,Person,male,,['israeli pop'],Bruno Mars
+528,528,528,Israel,Person,male,,"['hip hop', 'pop rap', 'portland hip hop', 'rap', 'underground hip hop']",Lior Narkis
+529,529,529,,,,,"['israeli mediterranean', 'israeli rock']",Shaked Komemy
+530,530,530,,Group,,,"['chicago rap', 'drill', 'rap', 'southern hip hop', 'trap', 'underground hip hop', 'vapor trap']",Seeb
+531,531,531,,,,Producer of dancehall reggae instrumentals,[],100 First Songs' Participants
+532,532,532,United States,Person,male,"fka DJ Mustard, US hip-hop producer","['dance pop', 'edm', 'german dance', 'pop dance', 'pop edm', 'tropical house']",Mustard
+533,533,533,,Person,,,"['indie rock italiano', 'italian pop']",Mooki
+534,534,534,Denmark,Group,,,"['boy band', 'dance pop', 'pop', 'pop rock', 'post-teen pop']",Static & Ben El
+535,535,535,Israel,Person,female,,"['festigal', 'israeli mediterranean', 'israeli pop', 'mizrahi']",Noga Erez
+536,536,536,United States,Group,,,"['pop', 'uk pop']",Imagine Dragons
+537,537,537,,Group,,,"['dance pop', 'pop', 'post-teen pop']",AJR
+538,538,538,Israel,Person,female,,,Daniela Spector

@@ -1,3 +1,5 @@
+from pycountry.db import Data
+from requests.models import Response
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import config
@@ -377,9 +379,115 @@ def merge_uniqu_songs_with_all_charts():
     merged_df.to_csv("./fullDataset.csv")
 
 
+def fetch_artists_data(artists):
+    import requests
+
+    def get_artist_gender(data_artist):
+        if "gender" in data_artist:
+            return data_artist["gender"]
+        if "girl" in data_artist.get("disambiguation", {}):
+            return "female"
+        if "boy" in data_artist.get("disambiguation", {}):
+            return "male"
+        return None
+
+    def get_artist_genre(data_artist):
+        tags = data_artist.get("tags", None)
+        if not tags:
+            return ""
+        sorted_genres = sorted(data_artist["tags"], key=lambda k: k["count"], reverse=True)
+        return list(sorted_genres)[0]["name"]
+
+    def get_country(data_artist):
+        try:
+            return pycountry.countries.get(alpha_2=data_artist["country"]).name
+        except:
+            return ""
+
+    artists_data = []
+    i = 0
+    for artist in artists:
+        time.sleep(1)
+        try:
+            response = requests.get(f"http://musicbrainz.org/ws/2/artist/?query=sort-name:{artist}&fmt=json")
+            data = response.json()
+            data_artist = data["artists"][0]
+            artists_data.append(
+                {
+                    "name": artist,
+                    "country": get_country(data_artist),
+                    "artist type": data_artist.get("type", None),
+                    "gender": get_artist_gender(data_artist),
+                    "disambiguation": data_artist.get("disambiguation", None),
+                    "genre": get_artist_genre(data_artist),
+                }
+            )
+            print(f"found data for {artist}")
+            i += 1
+            if i % 100 == 0:
+                artists_data_df = pd.DataFrame(artists_data)
+                artists_data_df.to_csv("./artistsData.csv")
+        except Exception as e:
+            artists_data.append({"name": artist})
+            print(f"{artist} Not Found")
+    return artists_data
+
+
+def merge_artists_songs():
+    songs_df = pd.read_csv("finalDataset/songsData.csv")
+    charts_df = pd.read_csv("finalDataset/mergedDataset.csv")
+    artist_song_df = charts_df[["URL", "Artist"]].merge(songs_df, on="URL")
+    artist_song_df.to_csv("./artistSong.csv")
+
+
+def get_israeli_artist_extra_data():
+    df = pd.read_csv("finalDataset/mergedDataset.csv")
+    israeli_df = df[df["country"] == "Israel"]
+    artists = list(set(israeli_df["Artist"].tolist()))
+    print(f"Going to fetch data on {len(artists)} artists")
+    artists_data_df = pd.DataFrame(fetch_artists_data(artists))
+    artists_data_df.to_csv("./israeliArtistsData.csv")
+
+
 def init_dataset_workflow():
     download_all_charts()
     format_spotify_csv_charts()
     merge_charts_csvs()
     get_uniqe_songs_data()
     merge_uniqu_songs_with_all_charts()
+
+
+def get_israeli_full_ds():
+    artist_df = pd.read_csv("israeliArtistsData.csv")
+    artist_df["Artist"] = artist_df["name"]
+    df = pd.read_csv("finalDataset/mergedDataset.csv")
+    israeli_df = df[df["country"] == "Israel"]
+    israeli_artist_full = israeli_df.merge(artist_df, on="Artist")
+    israeli_artist_full.to_csv("israeliDataset.csv")
+
+
+def fetch_empty_artist_data():
+    def get_genre(artists):
+        artists_genres_new = []
+        artists_genres = []
+        for artist in artists:
+            try:
+                artist_data = SpotifyAPI().sp.search(q=artist, type="artist", limit=1)["artists"]
+                genres = artist_data["items"][0].get("genres")
+                artists_genres_new.append({"Artist": artist, "genre": genres})
+                print(f"finish processing Artist: {artist}")
+            except Exception as e:
+                print(f"Artist: {artist} not found")
+        return pd.DataFrame(artists_genres_new)
+
+    df = pd.read_csv("israeliArtistsData.csv")
+    df["Artist"] = df["name"]
+    artists = list(set(df["Artist"].tolist()))
+    artist_genre_df = get_genre(artists)
+    df["genre"] = artist_genre_df["genre"]
+    df.to_csv("israeliArtistsData.csv")
+
+
+df = pd.read_csv("israeliArtistsData.csv")
+df.drop('name', axis=1, inplace=True)
+df.to_csv("israeliArtistsData.csv")
