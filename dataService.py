@@ -5,7 +5,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import config
 import time
 from selenium import webdriver
-import os, glob
+import os
+import glob
 import pycountry
 import pandas as pd
 
@@ -15,7 +16,8 @@ class SpotifyAPI:
         client_credentials_manager = SpotifyClientCredentials(
             client_id=config.CLIENT_ID, client_secret=config.CLIENT_SECRET
         )
-        self.sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+        self.sp = spotipy.Spotify(
+            client_credentials_manager=client_credentials_manager)
 
 
 def download_all_charts():
@@ -265,19 +267,23 @@ def download_all_charts():
     chromeOptions = webdriver.ChromeOptions()
     prefs = {"download.default_directory": "/Users/shakedzrihen/Documents/סדנה במדעי הנתונים/finalProject/dataset"}
     chromeOptions.add_experimental_option("prefs", prefs)
-    chromeOptions.add_experimental_option("excludeSwitches", ["enable-automation"])
+    chromeOptions.add_experimental_option(
+        "excludeSwitches", ["enable-automation"])
     chromeOptions.add_argument("start-maximized")
     chromeOptions.add_argument("--disable-blink-features=AutomationControlled")
     chromeOptions.add_argument("disable-infobars")
     chromeOptions.add_argument("--disable-extensions")
     chromedriver = "./chromedriver"
-    driver = webdriver.Chrome(executable_path=chromedriver, options=chromeOptions)
+    driver = webdriver.Chrome(
+        executable_path=chromedriver, options=chromeOptions)
 
     for week in WEEKLY_CHARTS_DATES[1:]:
         for region in SUPPORTED_REGIONS:
             try:
-                driver.get(f"https://spotifycharts.com/regional/{region}/weekly/{week}")
-                download_button = driver.find_element_by_class_name("header-csv")
+                driver.get(
+                    f"https://spotifycharts.com/regional/{region}/weekly/{week}")
+                download_button = driver.find_element_by_class_name(
+                    "header-csv")
                 download_button.click()
                 time.sleep(1)
             except:
@@ -292,7 +298,8 @@ def format_spotify_csv_charts():
         try:
             country = filename.split("-")[1]
             country_name = pycountry.countries.get(alpha_2=country).name
-            dates = filename.split(f"regional-{country}-weekly-")[1].split(".csv")[0].replace(" (1)", "")
+            dates = filename.split(
+                f"regional-{country}-weekly-")[1].split(".csv")[0].replace(" (1)", "")
             csv_input = pd.read_csv(f"./dataset/{filename}")
             new_header = csv_input.iloc[0]
             csv_input = csv_input[1:]
@@ -337,39 +344,37 @@ def get_uniqe_songs_data():
         10: "A#",
         11: "B",
     }
-    csv_input = pd.read_csv(f"./mergedDataset.csv")
+    uniqe_sonsgs_folder = './finalData/uniquSongsData.csv'
+    csv_input = pd.read_csv("./finalData/mergedDataset.csv")
     uniqe_songs_ids = csv_input["URL"].unique()
     print(f"Going to process {len(uniqe_songs_ids)} uniqe songs")
-    empty_dataframe = pd.read_csv(f"./songsData.csv")
+    empty_dataframe = pd.DataFrame()
     songs_to_write = 0
-    for song in uniqe_songs_ids[801:]:
+    for song in uniqe_songs_ids:
         try:
-            row = {}
             track_id = song.rsplit("/", 1)[-1]
-            track_data = api.sp.audio_features(tracks=[track_id])[0]
-            row["URL"] = song
-            row["danceability"] = track_data["danceability"]
-            row["energy"] = track_data["energy"]
-            row["key"] = music_keys.get(track_data["key"], "null")
-            row["loudness"] = track_data["loudness"]
-            row["mode"] = track_data["mode"]
-            row["speechiness"] = track_data["speechiness"]
-            row["acousticness"] = track_data["acousticness"]
-            row["instrumentalness"] = track_data["instrumentalness"]
-            row["liveness"] = track_data["liveness"]
-            row["valence"] = track_data["valence"]
-            row["tempo"] = track_data["tempo"]
-            row["duration_ms"] = track_data["duration_ms"]
-            empty_dataframe = empty_dataframe.append(row, ignore_index=True)
+            track_features_data = api.sp.audio_features(tracks=[track_id])[0]
+            track_data = api.sp.track(track_id)
+            track_features_data["numeric_key"] = track_features_data.get(
+                "key", "null")
+            track_features_data["key"] = music_keys.get(
+                track_features_data["key"], "null")
+            track_features_data['popularity'] = track_data['popularity']
+            track_features_data['name'] = track_data['name']
+            track_features_data.pop('type', None)
+            track_features_data.pop('uri', None)
+            track_features_data.pop('analysis_url', None)
+            empty_dataframe = empty_dataframe.append(
+                track_features_data, ignore_index=True)
             print(f"Calculated row number: {songs_to_write}")
             songs_to_write += 1
             if songs_to_write % 100 == 0:
                 print(f"Write next 100 songs (total: {songs_to_write})...")
-                empty_dataframe.to_csv(f"./songsData.csv", index=False)
+                empty_dataframe.to_csv(uniqe_sonsgs_folder, index=False)
         except Exception as e:
             print(f"Got excepetion: {e}")
             pass
-    empty_dataframe.to_csv(f"./songsData.csv", index=False)
+    empty_dataframe.to_csv(uniqe_sonsgs_folder, index=False)
 
 
 def merge_uniqu_songs_with_all_charts():
@@ -395,7 +400,8 @@ def fetch_artists_data(artists):
         tags = data_artist.get("tags", None)
         if not tags:
             return ""
-        sorted_genres = sorted(data_artist["tags"], key=lambda k: k["count"], reverse=True)
+        sorted_genres = sorted(
+            data_artist["tags"], key=lambda k: k["count"], reverse=True)
         return list(sorted_genres)[0]["name"]
 
     def get_country(data_artist):
@@ -409,7 +415,8 @@ def fetch_artists_data(artists):
     for artist in artists:
         time.sleep(1)
         try:
-            response = requests.get(f"http://musicbrainz.org/ws/2/artist/?query=sort-name:{artist}&fmt=json")
+            response = requests.get(
+                f"http://musicbrainz.org/ws/2/artist/?query=sort-name:{artist}&fmt=json")
             data = response.json()
             data_artist = data["artists"][0]
             artists_data.append(
@@ -472,7 +479,8 @@ def fetch_empty_artist_data():
         artists_genres = []
         for artist in artists:
             try:
-                artist_data = SpotifyAPI().sp.search(q=artist, type="artist", limit=1)["artists"]
+                artist_data = SpotifyAPI().sp.search(
+                    q=artist, type="artist", limit=1)["artists"]
                 genres = artist_data["items"][0].get("genres")
                 artists_genres_new.append({"Artist": artist, "genre": genres})
                 print(f"finish processing Artist: {artist}")
@@ -488,6 +496,8 @@ def fetch_empty_artist_data():
     df.to_csv("israeliArtistsData.csv")
 
 
-df = pd.read_csv("israeliArtistsData.csv")
-df.drop('name', axis=1, inplace=True)
-df.to_csv("israeliArtistsData.csv")
+# df = pd.read_csv("israeliArtistsData.csv")
+# df.drop('name', axis=1, inplace=True)
+# df.to_csv("israeliArtistsData.csv")
+
+get_uniqe_songs_data()
